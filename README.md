@@ -12,9 +12,9 @@
 <img width="635" height="364" alt="Captura de tela de 2025-11-29 16-29-59" src="https://github.com/user-attachments/assets/3732042b-d8d7-450e-8976-dd3d5ba5dcb2" />
 <img width="635" height="364" alt="Captura de tela de 2025-11-29 16-32-26" src="https://github.com/user-attachments/assets/4c5b584b-80f7-40c5-95a9-1f4add16a389" />
 <img width="1223" height="229" alt="Captura de tela de 2025-11-29 16-32-37" src="https://github.com/user-attachments/assets/4846dfa3-d973-4258-90f1-1a96a49efa13" />
-<img width="1223" height="297" alt="Captura de tela de 2025-11-29 16-33-29" src="https://github.com/user-attachments/assets/3c3243b6-a863-480e-a351-d764723fcbb9" />
-<img width="623" height="297" alt="Captura de tela de 2025-11-29 16-38-16" src="https://github.com/user-attachments/assets/56569080-5ddb-43c5-b7a9-183143a12126" />
 
+<img width="623" height="297" alt="Captura de tela de 2025-11-29 16-38-16" src="https://github.com/user-attachments/assets/56569080-5ddb-43c5-b7a9-183143a12126" />
+<img width="1223" height="297" alt="Captura de tela de 2025-11-29 16-33-29" src="https://github.com/user-attachments/assets/3c3243b6-a863-480e-a351-d764723fcbb9" />
 
 <P>  CHAT </P>
 <img width="1918" height="947" alt="Captura de tela de 2025-11-29 16-50-58" src="https://github.com/user-attachments/assets/6284c46e-1045-4ebe-b679-f051af675fbe" />
